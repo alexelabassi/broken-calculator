@@ -1,7 +1,7 @@
 
 import pytest
-from src.calculator import Calculator
 
+from src.calculator import Calculator
 
 class TestCalculator:
     # Test cases for Calculator class
